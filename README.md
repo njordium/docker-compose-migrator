@@ -117,8 +117,8 @@ The script presents a full menu on launch:
 
 ```
 ┌──────────┐        SSH         ┌──────────────┐        SSH         ┌─────────────┐
-│  Source   │◄──────────────────►│    Client     │◄──────────────────►│ Destination │
-│  Server   │   tar czf → pipe  │ (Mac/Linux)   │   pipe → tar xzf  │   Server    │
+│  Source  │◄──────────────────►│    Client    │◄──────────────────►│ Destination │
+│  Server  │   tar czf → pipe   │ (Mac/Linux)  │   pipe → tar xzf   │   Server    │
 └──────────┘                    └──────────────┘                    └─────────────┘
 ```
 
